@@ -32,6 +32,8 @@ To measure coffee liquid output, I simply brew onto a 0.1-gram accurate kitchen 
 
 Here is a summary of how these stats relate to each other, along with the brew ratio
 
+Since these are analog dials, to get a ratio between any of these data points, you can of course set the dials between the two dots that are closest to what you are aiming for.
+
 | **Amount setting (Coffee)** | **Amount setting (Water)** | **Shot button (single/double)** | **Output Liquid weight (grams)** | **Input Coffee weight (grams)** | **Brew Ratio** | **Category** |
 |-----------------------------|----------------------------|---------------------------------|----------------------------------|---------------------------------|----------------|--------------|
 | 0 (Far right)               | 0 (Far left)               | Single                          | 14.6                             | 11.2                            | 1.30:1         | Ristretto    |
