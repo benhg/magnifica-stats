@@ -11,14 +11,40 @@ And on top of that, I couldn't find any measurements online to fill in these gap
 
 To measure the amount of dry coffee, I weigh the grounds bin, then press the coffee button, and immediately after the coffee is tamped (before the pre-infusion starts), click the coffee button again to cancel, wait for the machine to spit the grounds into the grounds bin, and weigh it again. The difference in weight is the amount of coffee the machine intended to use. I typically take a few measurements and average them. I haven't yet bothered to report the standard deviation of these averages, though I really should.
 
+NOTE: Coffee measurements are counted from 0 (maximum)
+
 | **Amount setting** | **Shot button (single/double)** | **Coffee weight (grams)** |
 |--------------------|---------------------------------|---------------------------|
-| 0 (Far right)      | Single                          | 11.2                      |
-| 0 (Far right)      | Double                          | 15.4                      |
+| 0 (Max)      | Single                          | 11.2                      |
+| 0 (Max)      | Double                          | 15.4                      |
+| 1     | Single                          | 11.0                      |
+| 1      | Double                          | 14.9                      |
+| 2     | Single                          | 10.9                      |
+| 2      | Double                          | 14.5                      |
+| 3    | Single                          | 10.1                      |
+| 3     | Double                          | 13.9                      |
+| 4  | Single                          | 9.9                      |
+| 4      | Double                          | 12.2                      |
+| 5      | Single                          | 9.3                      |
+| 5     | Double                          | 11.9                      |
+| 6     | Single                          | 8.6                      |
+| 6     | Double                          | 11.8                      |
+| 7      | Single                          | 8.2                      |
+| 7      | Double                          | 11.6                      |
+| 8      | Single                          | 7.5                      |
+| 8      | Double                          | 11.0                      |
+| 9     | Single                          | 7.1                      |
+| 9      | Double                          | 10.7                      |
+| 10     | Single                          | 6.0                      |
+| 10     | Double                          | 10.5                      |
+| 11 (Min)    | Single                          | 5.8                      |
+| 11 (Min)     | Double                          | 10.1                      |
 |                    |                                 |                           |
 
 ## Liquid measurements
 To measure coffee liquid output, I simply brew onto a 0.1-gram accurate kitchen scale.
+
+NOTE: Liquid measurements are counted from 0 (minimum)
 
 | **Amount setting** | **Shot button (single/double)** | **Output Liquid weight (grams)** |
 |--------------------|---------------------------------|----------------------------------|
