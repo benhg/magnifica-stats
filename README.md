@@ -68,3 +68,9 @@ Since these are analog dials, to get a ratio between any of these data points, y
 | 0 (Far right)               | 1                          | Double                          | 52.4                             | 15.4                            | 3.40:1         | Lungo        |
 
 Over time, I plan to fully populate this table.
+
+
+## Takeaways
+
+- The coffee input weight is not very precise. I think the machine is only accurate to about +/- one gram. That's not really the level of accuracy that we may be aiming for.
+- Some coffee doesn't end up in the brew system and instead ends up on the floor of the machine. Perhaps that's where some of the variablility comes from.
